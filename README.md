@@ -7,7 +7,7 @@ A Spring Boot application providing a secure RESTful API for managing customers,
 User Authentication: Register and login with JWT token.
 Customer Management: Add, retrieve, and delete customers via secured endpoints.
 
--Tech Stack
+-Tech Stack : 
 Spring Boot
 Spring Security (JWT)
 Spring Data JPA
